@@ -9,7 +9,16 @@ asd
 sad
 sad
 sad
+<<<<<<< Updated upstream
 ffsdfsdfsdfdsfddfsdfssdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdada
 asdsadsadsasda:wq
 
+=======
+<<<<<<< HEAD
+ffsdfsdfsdfdsfddfsdfssdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+>>>>>>> Stashed changes
 
+=======
+fdsdasdsadsadsadsasadsadsadsdasadsad
+dasdsadsadassdsad:
+>>>>>>> dev
