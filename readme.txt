@@ -10,10 +10,13 @@ sad
 sad
 sad
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ffsdfsdfsdfdsfddfsdfssdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdada
 asdsadsadsasda:wq
 
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 ffsdfsdfsdfdsfddfsdfssdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
 >>>>>>> Stashed changes
